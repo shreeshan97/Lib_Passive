@@ -1,0 +1,224 @@
+(footprint "CAP-TANTA"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.4 0)
+		(layer "F.SilkS")
+		(uuid "38ffbbb5-efbe-435c-bf01-9081a620cb2e")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "CAP-TANTA"
+		(at 0 1.5 0)
+		(layer "F.Fab")
+		(uuid "017d91b4-0969-4504-92be-c5bd968e3507")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4f7de36-560b-40a6-8311-9df831ef746b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7874222c-5e23-4c7c-a548-97028ecb3f6a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43c16f84-0e05-4503-9d7f-8ac76232be6c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.57 -0.9)
+		(end 0.57 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "19e073da-a617-476a-92db-a15b8b4d3f84")
+	)
+	(fp_line
+		(start -0.57 0.9)
+		(end 0.57 0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98e290aa-3eeb-4118-9e6c-1d3c693ffc3c")
+	)
+	(fp_line
+		(start 2.85 -0.45)
+		(end 2.85 0.45)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f382fa27-60f1-41ed-ad04-2204dd8819ba")
+	)
+	(fp_line
+		(start 3.3 0)
+		(end 2.4 0)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "db86a1f9-22c9-4788-8143-a37634f26775")
+	)
+	(fp_line
+		(start -2.308 -1.15)
+		(end 2.308 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "527e7a9c-e990-405e-b5e3-7a2ba84c781a")
+	)
+	(fp_line
+		(start -2.308 1.15)
+		(end -2.308 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1527a710-9747-4561-b757-802c7c46c553")
+	)
+	(fp_line
+		(start -2.308 1.15)
+		(end 2.308 1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0884de5b-3942-402f-aaff-390fbd4fddc2")
+	)
+	(fp_line
+		(start 2.308 1.15)
+		(end 2.308 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f12a17a7-5577-4c6d-ac0d-afdc7c5dfcae")
+	)
+	(fp_line
+		(start -1.7 0.9)
+		(end -1.7 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "56c76f89-325e-4247-b815-837855c0f291")
+	)
+	(fp_line
+		(start 1.7 -0.9)
+		(end -1.7 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a6b73dd0-d05d-4941-823b-d4a1f2a5be61")
+	)
+	(fp_line
+		(start 1.7 0.9)
+		(end -1.7 0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "38d0d4ca-915d-4103-a7df-a4b5a851d96e")
+	)
+	(fp_line
+		(start 1.7 0.9)
+		(end 1.7 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "21b348cd-cb34-4ef1-a8be-373f6a75fe9c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "46eedc48-a589-4204-9f7e-fa542344c68b")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.475 0)
+		(size 1.16 1.82)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "35ba44c2-f086-45e8-93ca-b58f219758f1")
+	)
+	(pad "2" smd rect
+		(at 1.475 0)
+		(size 1.16 1.82)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "651e020f-115b-4aac-9585-e1b2372ab582")
+	)
+	(model "${KIPRJMOD}/Library/Lib_Passive/3dModels/CAP-TANTA.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -180)
+		)
+	)
+)
