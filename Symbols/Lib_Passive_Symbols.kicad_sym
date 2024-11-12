@@ -2,13 +2,14 @@
 	(version 20231120)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-	(symbol "CAP_0402"
+	(symbol "CAP-0402"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "C"
 			(at 1.905 0.635 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18,6 +19,7 @@
 		)
 		(property "Value" "100nF"
 			(at 1.905 -1.27 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56,6 +58,7 @@
 		)
 		(property "Package" "0402"
 			(at 1.905 -3.175 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65,6 +68,7 @@
 		)
 		(property "Voltage" "50V"
 			(at 1.905 -5.08 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -81,7 +85,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CAP_0402_0_1"
+		(symbol "CAP-0402_0_1"
 			(polyline
 				(pts
 					(xy -1.524 -3.048) (xy 1.524 -3.048)
@@ -107,7 +111,7 @@
 				)
 			)
 		)
-		(symbol "CAP_0402_1_1"
+		(symbol "CAP-0402_1_1"
 			(pin passive line
 				(at 0 0 270)
 				(length 2.032)
@@ -146,13 +150,14 @@
 			)
 		)
 	)
-	(symbol "CAP_0603"
+	(symbol "CAP-0603"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "C"
 			(at 1.905 0.635 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -162,6 +167,7 @@
 		)
 		(property "Value" "100nF"
 			(at 1.905 -1.27 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -200,6 +206,7 @@
 		)
 		(property "Package" "0603"
 			(at 1.905 -3.175 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -209,6 +216,7 @@
 		)
 		(property "Voltage" "50V"
 			(at 1.905 -5.08 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -225,7 +233,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CAP_0603_0_1"
+		(symbol "CAP-0603_0_1"
 			(polyline
 				(pts
 					(xy -1.524 -3.048) (xy 1.524 -3.048)
@@ -251,7 +259,7 @@
 				)
 			)
 		)
-		(symbol "CAP_0603_1_1"
+		(symbol "CAP-0603_1_1"
 			(pin passive line
 				(at 0 0 270)
 				(length 2.032)
@@ -290,13 +298,14 @@
 			)
 		)
 	)
-	(symbol "CAP_0805"
+	(symbol "CAP-0805"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "C"
 			(at 1.905 0.635 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -306,6 +315,7 @@
 		)
 		(property "Value" "100nF"
 			(at 1.905 -1.27 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -325,6 +335,7 @@
 		)
 		(property "Datasheet" ""
 			(at 1.905 1.905 90)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -344,6 +355,7 @@
 		)
 		(property "Package" "0805"
 			(at 1.905 -3.175 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -353,6 +365,7 @@
 		)
 		(property "Voltage" "50V"
 			(at 1.905 -5.08 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -369,7 +382,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CAP_0805_0_1"
+		(symbol "CAP-0805_0_1"
 			(polyline
 				(pts
 					(xy -1.524 -3.048) (xy 1.524 -3.048)
@@ -395,7 +408,7 @@
 				)
 			)
 		)
-		(symbol "CAP_0805_1_1"
+		(symbol "CAP-0805_1_1"
 			(pin passive line
 				(at 0 0 270)
 				(length 2.032)
@@ -434,13 +447,14 @@
 			)
 		)
 	)
-	(symbol "CAP_1206"
+	(symbol "CAP-1206"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "C"
 			(at 1.905 0.635 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -450,6 +464,7 @@
 		)
 		(property "Value" "100nF"
 			(at 1.905 -1.27 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -488,6 +503,7 @@
 		)
 		(property "Package" "1206"
 			(at 1.905 -3.175 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -497,6 +513,7 @@
 		)
 		(property "Voltage" "50V"
 			(at 1.905 -5.08 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -513,7 +530,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CAP_1206_0_1"
+		(symbol "CAP-1206_0_1"
 			(polyline
 				(pts
 					(xy -1.524 -3.048) (xy 1.524 -3.048)
@@ -539,7 +556,7 @@
 				)
 			)
 		)
-		(symbol "CAP_1206_1_1"
+		(symbol "CAP-1206_1_1"
 			(pin passive line
 				(at 0 0 270)
 				(length 2.032)
@@ -578,7 +595,7 @@
 			)
 		)
 	)
-	(symbol "CAP_TANTA"
+	(symbol "CAP-AEC-8MM"
 		(pin_numbers hide)
 		(pin_names
 			(offset 0.254) hide)
@@ -587,6 +604,192 @@
 		(on_board yes)
 		(property "Reference" "C"
 			(at 1.905 0.635 0)
+			(do_not_autoplace)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100u"
+			(at 1.905 -1.27 0)
+			(do_not_autoplace)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Lib_Passive_Footprints:CAP-AEC-8MM"
+			(at -15.24 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 6.985 3.175 0)
+			(do_not_autoplace)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, tantalum capacitor"
+			(at -15.24 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "AEC-8MM"
+			(at 1.905 -3.175 0)
+			(do_not_autoplace)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Voltage" "35V"
+			(at 1.905 -5.08 0)
+			(do_not_autoplace)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "ki_keywords" "cap capacitor tantalum"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "CAP-AEC-8MM_0_1"
+			(polyline
+				(pts
+					(xy -1.524 -2.032) (xy 1.524 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.016) (xy -0.762 -1.016)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.016 -1.27) (xy -1.016 -0.762)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 1.524 -3.302)
+				(mid 0 -2.9134)
+				(end -1.524 -3.302)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "CAP-AEC-8MM_1_1"
+			(pin passive line
+				(at 0 0 270)
+				(length 2.032)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -5.08 90)
+				(length 2.032)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "CAP-TANTA"
+		(pin_numbers hide)
+		(pin_names
+			(offset 0.254) hide)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 1.905 0.635 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -596,6 +799,7 @@
 		)
 		(property "Value" "1u"
 			(at 1.905 -1.27 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -615,6 +819,7 @@
 		)
 		(property "Datasheet" ""
 			(at 6.985 3.175 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -635,6 +840,7 @@
 		)
 		(property "Package" "CASE A"
 			(at 1.905 -3.175 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -644,6 +850,7 @@
 		)
 		(property "Voltage" "25V"
 			(at 1.905 -5.08 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -669,7 +876,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CAP_TANTA_0_1"
+		(symbol "CAP-TANTA_0_1"
 			(polyline
 				(pts
 					(xy -1.524 -2.032) (xy 1.524 -2.032)
@@ -719,7 +926,7 @@
 				)
 			)
 		)
-		(symbol "CAP_TANTA_1_1"
+		(symbol "CAP-TANTA_1_1"
 			(pin passive line
 				(at 0 0 270)
 				(length 2.032)
@@ -758,7 +965,7 @@
 			)
 		)
 	)
-	(symbol "CAP_TANTB"
+	(symbol "CAP-TANTB"
 		(pin_numbers hide)
 		(pin_names
 			(offset 0.254) hide)
@@ -767,6 +974,7 @@
 		(on_board yes)
 		(property "Reference" "C"
 			(at 1.905 0.635 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -776,6 +984,7 @@
 		)
 		(property "Value" "1u"
 			(at 1.905 -1.27 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -795,6 +1004,7 @@
 		)
 		(property "Datasheet" ""
 			(at 6.985 3.175 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -815,6 +1025,7 @@
 		)
 		(property "Package" "CASE B"
 			(at 1.905 -3.175 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -824,6 +1035,7 @@
 		)
 		(property "Voltage" "25V"
 			(at 1.905 -5.08 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -849,7 +1061,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CAP_TANTB_0_1"
+		(symbol "CAP-TANTB_0_1"
 			(polyline
 				(pts
 					(xy -1.524 -2.032) (xy 1.524 -2.032)
@@ -899,7 +1111,7 @@
 				)
 			)
 		)
-		(symbol "CAP_TANTB_1_1"
+		(symbol "CAP-TANTB_1_1"
 			(pin passive line
 				(at 0 0 270)
 				(length 2.032)
@@ -938,7 +1150,7 @@
 			)
 		)
 	)
-	(symbol "CAP_TANTC"
+	(symbol "CAP-TANTC"
 		(pin_numbers hide)
 		(pin_names
 			(offset 0.254) hide)
@@ -947,6 +1159,7 @@
 		(on_board yes)
 		(property "Reference" "C"
 			(at 1.905 0.635 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -956,6 +1169,7 @@
 		)
 		(property "Value" "1u"
 			(at 1.905 -1.27 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -995,6 +1209,7 @@
 		)
 		(property "Package" "CASE C"
 			(at 1.905 -3.175 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1004,6 +1219,7 @@
 		)
 		(property "Voltage" "25V"
 			(at 1.905 -5.08 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1029,7 +1245,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CAP_TANTC_0_1"
+		(symbol "CAP-TANTC_0_1"
 			(polyline
 				(pts
 					(xy -1.524 -2.032) (xy 1.524 -2.032)
@@ -1079,7 +1295,7 @@
 				)
 			)
 		)
-		(symbol "CAP_TANTC_1_1"
+		(symbol "CAP-TANTC_1_1"
 			(pin passive line
 				(at 0 0 270)
 				(length 2.032)
@@ -1118,7 +1334,7 @@
 			)
 		)
 	)
-	(symbol "IND_0402"
+	(symbol "IND-0402"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1203,7 +1419,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "IND_0402_0_1"
+		(symbol "IND-0402_0_1"
 			(arc
 				(start 1.524 0)
 				(mid 1.016 0.5058)
@@ -1253,7 +1469,7 @@
 				)
 			)
 		)
-		(symbol "IND_0402_1_1"
+		(symbol "IND-0402_1_1"
 			(pin passive line
 				(at 0 0 0)
 				(length 0.508)
@@ -1292,7 +1508,7 @@
 			)
 		)
 	)
-	(symbol "IND_0603"
+	(symbol "IND-0603"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1375,7 +1591,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "IND_0603_0_1"
+		(symbol "IND-0603_0_1"
 			(arc
 				(start 1.524 0)
 				(mid 1.016 0.5058)
@@ -1425,7 +1641,7 @@
 				)
 			)
 		)
-		(symbol "IND_0603_1_1"
+		(symbol "IND-0603_1_1"
 			(pin passive line
 				(at 0 0 0)
 				(length 0.508)
@@ -1464,7 +1680,7 @@
 			)
 		)
 	)
-	(symbol "IND_0805"
+	(symbol "IND-0805"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1547,7 +1763,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "IND_0805_0_1"
+		(symbol "IND-0805_0_1"
 			(arc
 				(start 1.524 0)
 				(mid 1.016 0.5058)
@@ -1597,7 +1813,7 @@
 				)
 			)
 		)
-		(symbol "IND_0805_1_1"
+		(symbol "IND-0805_1_1"
 			(pin passive line
 				(at 0 0 0)
 				(length 0.508)
@@ -1636,7 +1852,7 @@
 			)
 		)
 	)
-	(symbol "IND_1206"
+	(symbol "IND-1206"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1721,7 +1937,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "IND_1206_0_1"
+		(symbol "IND-1206_0_1"
 			(arc
 				(start 1.524 0)
 				(mid 1.016 0.5058)
@@ -1771,7 +1987,7 @@
 				)
 			)
 		)
-		(symbol "IND_1206_1_1"
+		(symbol "IND-1206_1_1"
 			(pin passive line
 				(at 0 0 0)
 				(length 0.508)
@@ -1810,7 +2026,7 @@
 			)
 		)
 	)
-	(symbol "IND_CDRH104R"
+	(symbol "IND-CDRH104R"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1893,7 +2109,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "IND_CDRH104R_0_1"
+		(symbol "IND-CDRH104R_0_1"
 			(arc
 				(start 1.524 0)
 				(mid 1.016 0.5058)
@@ -1943,7 +2159,7 @@
 				)
 			)
 		)
-		(symbol "IND_CDRH104R_1_1"
+		(symbol "IND-CDRH104R_1_1"
 			(pin passive line
 				(at 0 0 0)
 				(length 0.508)
@@ -1982,13 +2198,14 @@
 			)
 		)
 	)
-	(symbol "RES_0402"
+	(symbol "RES-0402"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "R"
 			(at 1.27 0 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1998,6 +2215,7 @@
 		)
 		(property "Value" "1K"
 			(at 1.27 -1.905 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2036,6 +2254,7 @@
 		)
 		(property "Package" "0402"
 			(at 1.27 -3.81 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2045,6 +2264,7 @@
 		)
 		(property "Tolerance" "1%"
 			(at 1.27 -5.715 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2061,7 +2281,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "RES_0402_1_1"
+		(symbol "RES-0402_1_1"
 			(polyline
 				(pts
 					(xy 0 -2.54) (xy 1.016 -2.921) (xy 0 -3.302) (xy -1.016 -3.683) (xy 0 -4.064)
@@ -2124,13 +2344,14 @@
 			)
 		)
 	)
-	(symbol "RES_0603"
+	(symbol "RES-0603"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "R"
 			(at 1.27 0 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2140,6 +2361,7 @@
 		)
 		(property "Value" "1K"
 			(at 1.27 -1.905 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2178,6 +2400,7 @@
 		)
 		(property "Package" "0603"
 			(at 1.27 -3.81 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2187,6 +2410,7 @@
 		)
 		(property "Tolerance" "1%"
 			(at 1.27 -5.715 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2203,7 +2427,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "RES_0603_1_1"
+		(symbol "RES-0603_1_1"
 			(polyline
 				(pts
 					(xy 0 -2.54) (xy 1.016 -2.921) (xy 0 -3.302) (xy -1.016 -3.683) (xy 0 -4.064)
@@ -2266,13 +2490,14 @@
 			)
 		)
 	)
-	(symbol "RES_0805"
+	(symbol "RES-0805"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "R"
 			(at 1.27 0 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2282,6 +2507,7 @@
 		)
 		(property "Value" "1K"
 			(at 1.27 -1.905 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2320,6 +2546,7 @@
 		)
 		(property "Package" "0805"
 			(at 1.27 -3.81 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2329,6 +2556,7 @@
 		)
 		(property "Tolerance" "1%"
 			(at 1.27 -5.715 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2345,7 +2573,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "RES_0805_1_1"
+		(symbol "RES-0805_1_1"
 			(polyline
 				(pts
 					(xy 0 -2.54) (xy 1.016 -2.921) (xy 0 -3.302) (xy -1.016 -3.683) (xy 0 -4.064)
@@ -2408,13 +2636,14 @@
 			)
 		)
 	)
-	(symbol "RES_1206"
+	(symbol "RES-1206"
 		(pin_numbers hide)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "R"
 			(at 1.905 0 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2423,6 +2652,7 @@
 		)
 		(property "Value" "1K"
 			(at 2.54 -1.905 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2441,6 +2671,7 @@
 		)
 		(property "Datasheet" ""
 			(at 2.54 -3.81 90)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2460,6 +2691,7 @@
 		)
 		(property "Package" "1206"
 			(at 3.81 -3.81 0)
+			(do_not_autoplace)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2483,7 +2715,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "RES_1206_1_1"
+		(symbol "RES-1206_1_1"
 			(polyline
 				(pts
 					(xy 0 -2.54) (xy 1.016 -2.921) (xy 0 -3.302) (xy -1.016 -3.683) (xy 0 -4.064)

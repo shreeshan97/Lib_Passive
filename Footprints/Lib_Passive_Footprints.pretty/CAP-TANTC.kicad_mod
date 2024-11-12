@@ -9,20 +9,20 @@
 		(uuid "b99d2b34-c54d-4462-b817-4bcc677ccd73")
 		(effects
 			(font
-				(size 0.6 0.6)
-				(thickness 0.1)
+				(size 0.8 0.8)
+				(thickness 0.15)
 				(bold yes)
 			)
 		)
 	)
 	(property "Value" "CAP-TANTC"
-		(at 0 2.6 0)
+		(at 0 1.0414 0)
 		(layer "F.Fab")
 		(uuid "13338e8f-1770-4df3-b855-42960100d0de")
 		(effects
 			(font
-				(size 0.6 0.6)
-				(thickness 0.1)
+				(size 0.8 0.8)
+				(thickness 0.15)
 				(bold yes)
 			)
 		)
@@ -185,13 +185,13 @@
 		(uuid "63743237-8d18-4582-ad98-87c6649cc911")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 -0.889 0)
 		(layer "F.Fab")
 		(uuid "75c061fd-e1e4-4915-9796-44a0edba4929")
 		(effects
 			(font
-				(size 0.6 0.6)
-				(thickness 0.1)
+				(size 0.8 0.8)
+				(thickness 0.15)
 				(bold yes)
 			)
 		)
