@@ -190,8 +190,8 @@
 		(uuid "75c061fd-e1e4-4915-9796-44a0edba4929")
 		(effects
 			(font
-				(size 0.3 0.3)
-				(thickness 0.075)
+				(size 0.6 0.6)
+				(thickness 0.1)
 				(bold yes)
 			)
 		)
