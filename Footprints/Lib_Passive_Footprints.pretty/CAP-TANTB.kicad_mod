@@ -17,7 +17,7 @@
 	)
 	(property "Value" "CAP-TANTB"
 		(at 0 2 0)
-		(layer "Dwgs.User")
+		(layer "F.Fab")
 		(uuid "855eacc3-49cc-4131-aa5a-595fa69d58af")
 		(effects
 			(font
