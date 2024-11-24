@@ -197,18 +197,18 @@
 		)
 	)
 	(pad "1" smd rect
-		(at -1.475 0)
-		(size 1.16 1.82)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(solder_mask_margin 0.102)
-		(uuid "35ba44c2-f086-45e8-93ca-b58f219758f1")
-	)
-	(pad "2" smd rect
 		(at 1.475 0)
 		(size 1.16 1.82)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "651e020f-115b-4aac-9585-e1b2372ab582")
+	)
+	(pad "2" smd rect
+		(at -1.475 0)
+		(size 1.16 1.82)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "35ba44c2-f086-45e8-93ca-b58f219758f1")
 	)
 	(model "${KIPRJMOD}/Library/Lib_Passive/3dModels/CAP-TANTA.stp"
 		(offset
